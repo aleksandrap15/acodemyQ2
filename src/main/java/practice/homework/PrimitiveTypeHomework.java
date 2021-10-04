@@ -128,7 +128,7 @@ public class PrimitiveTypeHomework {
 
         System.out.println ("===================================");
 // Print information about me using String data type variables.
-        System.out.println("Homework task 2");
+        System.out.println("Homework task 2 + String.format");
 
         String myName = "Aleksandra";
         String mySurname = "Panfilova";
@@ -145,6 +145,7 @@ public class PrimitiveTypeHomework {
         System.out.println(nameAndSurname);
         System.out.println(homeTownAndBirthYear);
         System.out.println(myWorkYearsPositionWorkPlace);
+
 
 
 
