@@ -146,13 +146,5 @@ public class PrimitiveTypeHomework {
         System.out.println(homeTownAndBirthYear);
         System.out.println(myWorkYearsPositionWorkPlace);
 
-
-
-
-
-
-
-
-
     }
 }
